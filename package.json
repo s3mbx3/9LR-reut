@@ -1,0 +1,27 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Inception: Special Edition",
+      "duration": 155,
+      "isIMAX": true,
+      "releaseDate": "2010-07-16T00:00:00Z",
+      "genres": [
+        "Sci-Fi",
+        "Action",
+        "Drama"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Interstellar",
+      "duration": 169,
+      "isIMAX": true,
+      "releaseDate": "2014-11-07T00:00:00Z",
+      "genres": [
+        "Sci-Fi",
+        "Drama"
+      ]
+    }
+  ]
+}
